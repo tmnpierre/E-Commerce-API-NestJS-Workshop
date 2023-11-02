@@ -7,3 +7,4 @@ Vous devez créer une API simple avec Nest qui permettra à des utilisateurs de 
 ## Initialisation
 
 1. Créer un projet Nest
+2. Créer une route `hello` dans le controller `main.controller.ts`
