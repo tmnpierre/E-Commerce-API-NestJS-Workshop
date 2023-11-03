@@ -11,3 +11,4 @@ Vous devez créer une API simple avec Nest qui permettra à des utilisateurs de 
    1. Un controlleur (Controller)
    2. Un service
 3. Créer une route dans le controlleur que vous avez trouvé
+4. Créer une methode dans le service que vous avez trouvé qui renvoie "Bonjour"
