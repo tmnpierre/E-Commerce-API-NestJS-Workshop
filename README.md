@@ -10,6 +10,7 @@ Vous devez créer une API simple avec Nest qui permettra à des utilisateurs de 
 2. Inspecter le dossier `src` de votre projet Nest pour trouver :
    1. Un controlleur (Controller)
    2. Un service
-3. Créer une route dans le controlleur que vous avez trouvé
-4. Créer une méthode dans le service que vous avez trouvé qui renvoie "Bonjour"
+3. Créer une route dans le controlleur que vous avez trouvé, son nom doit être "direBonjour"
+4. Créer une méthode dans le service appelé "logiqueDeDireBonjour" que vous avez trouvé qui renvoie "Bonjour"
 5. Retourner le résultat de la méthode que vous avez crée dans le code de la route que vous avez crée
+6. Tester votre route
