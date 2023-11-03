@@ -14,7 +14,7 @@ Vous devez créer une API simple avec Nest qui permettra à des utilisateurs de 
 4. Créer une méthode dans le service appelé "logiqueDeDireBonjour" que vous avez trouvé qui renvoie "Bonjour"
 5. Retourner le résultat de la méthode que vous avez crée dans le code de la route que vous avez crée
 6. Tester votre route avec Postman
-   1. L'URL de votre API est la suivante `http://localhost:3000/` (<a target="_blank" href="http://localhost:3000/"></a>)
+   1. L'URL de votre API est la suivante `http://localhost:3000/` (<a target="_blank" href="http://localhost:3000/">s'y rendre</a>)
 7. Créer un controller appellé "Product"
 8. Créer un service pour ce nouveau controller appellé "Product"
 9. Créer une route dans ce controlleur pour récupérer un tableau de nom de produit
