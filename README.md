@@ -10,3 +10,4 @@ Vous devez créer une API simple avec Nest qui permettra à des utilisateurs de 
 2. Inspecter le dossier `src` de votre projet Nest pour trouver :
    1. Un controlleur (Controller)
    2. Un service
+3. Créer une route dans le controlleur que vous avez trouvé
