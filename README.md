@@ -18,3 +18,4 @@ Vous devez créer une API simple avec Nest qui permettra à des utilisateurs de 
    2. Trouvez un moyen d'appeller votre route
 7. Créer un controller appellé "Product"
 8. Créer un service pour ce nouveau controller appellé "Product"
+9. Créer une route dans ce controlleur pour récupérer un tableau de nom de produit
