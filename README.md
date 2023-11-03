@@ -13,4 +13,6 @@ Vous devez créer une API simple avec Nest qui permettra à des utilisateurs de 
 3. Créer une route dans le controlleur que vous avez trouvé, son nom doit être "direBonjour"
 4. Créer une méthode dans le service appelé "logiqueDeDireBonjour" que vous avez trouvé qui renvoie "Bonjour"
 5. Retourner le résultat de la méthode que vous avez crée dans le code de la route que vous avez crée
-6. Tester votre route
+6. Tester votre route avec Postman
+   1. Trouver l'URL de votre api
+   2. Trouvez un moyen d'appeller votre route
