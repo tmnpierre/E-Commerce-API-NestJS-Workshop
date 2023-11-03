@@ -7,7 +7,7 @@ Vous devez créer une API simple avec Nest qui permettra à des utilisateurs de 
 ## Initialisation
 
 1. Créer un projet Nest ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/01-cr%C3%A9er-un-projet-nest))
-2. Inspecter le dossier `src` de votre projet Nest pour trouver :
+2. Inspecter le dossier `src` de votre projet Nest pour trouver : ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/02-inspecter-src))
    1. Un controlleur (Controller)
    2. Un service
 3. Créer une route dans le controlleur que vous avez trouvé, son nom doit être "direBonjour"
