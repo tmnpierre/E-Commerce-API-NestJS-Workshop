@@ -15,8 +15,8 @@ Vous devez créer une API simple avec Nest qui permettra à des utilisateurs de 
 5. Retourner le résultat de la méthode que vous avez crée dans le code de la route que vous avez crée ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/05-retourner-le-resultat))
 6. Tester votre route avec Postman
    1. L'URL de votre API est la suivante `http://localhost:3000/` ([s'y rendre](http://localhost:3000/))
-7. Créer un controller appellé "Product"  ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/07-cr%C3%A9er-un-controller))
-8. Créer un service pour ce nouveau controller appellé "Product"
+7. Créer un controller appellé "Product" ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/07-cr%C3%A9er-un-controller))
+8. Créer un service pour ce nouveau controller appellé "Product" ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/08-cr%C3%A9er-un-service))
 9. Créer une route dans ce controlleur pour récupérer un tableau de nom de produit
 10. Ajouter le nouveau controller en tant que controller du module `App`
 11. Ajouter le nouveau service en tant que provider du module `App`
