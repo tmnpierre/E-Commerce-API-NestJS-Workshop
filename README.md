@@ -17,3 +17,4 @@ Vous devez créer une API simple avec Nest qui permettra à des utilisateurs de 
    1. Trouver l'URL de votre api
    2. Trouvez un moyen d'appeller votre route
 7. Créer un controller appellé "Product"
+8. Créer un service pour ce nouveau controller appellé "Product"
