@@ -18,6 +18,6 @@ Vous devez créer une API simple avec Nest qui permettra à des utilisateurs de 
 7. Créer un controller appellé "Product"
 8. Créer un service pour ce nouveau controller appellé "Product"
 9. Créer une route dans ce controlleur pour récupérer un tableau de nom de produit
-10. Lier ce nouveau controlleur dans Nest
+10. Ajouter le nouveau controller en tant que controller du module `App`
 11. Ajouter le nouveau service en tant que provider du module `App`
 12. Tester la route pour récupérer un tableau de nom de produit
