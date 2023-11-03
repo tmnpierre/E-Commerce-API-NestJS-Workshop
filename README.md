@@ -16,3 +16,4 @@ Vous devez créer une API simple avec Nest qui permettra à des utilisateurs de 
 6. Tester votre route avec Postman
    1. Trouver l'URL de votre api
    2. Trouvez un moyen d'appeller votre route
+7. Créer un controller appellé "Product"
