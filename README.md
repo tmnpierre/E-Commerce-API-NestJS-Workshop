@@ -75,7 +75,8 @@ model Users {
 
 22. Créer une nouvelle ressource (~=module) nommée `Users` avec "Nest CLI" (Note: Une ressource est un ensemble de : controller, service, module. On appelle aussi cela un module)
 23. Ajouter les propriétés : `Pseudo` et `Mail` dans le DTO `create-user`
-24. Implémenter la logique de la route `create` du controller `User`.
-25. Retourner l'utilisateur crée dans la réponse de la requête.
+24. Définir le service Prisma en tant que provider du module `Users`
+25. Implémenter la logique de la route `create` du controller `User`.
+26. Retourner l'utilisateur crée dans la réponse de la requête.
 
 </details>
