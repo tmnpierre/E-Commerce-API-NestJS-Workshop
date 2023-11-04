@@ -69,3 +69,7 @@ model Users {
 20. Vérifier que la structure de la base de données correspond bien à la définition du schéma Prisma
 
 </details>
+
+<details open><summary><h2>Création des utilisateurs</h2></summary>
+
+</details>
