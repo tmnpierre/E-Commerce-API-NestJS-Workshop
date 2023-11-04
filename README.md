@@ -24,7 +24,7 @@ Vous devez créer une API simple avec Nest qui permettra à des utilisateurs de 
 13. Importer le module `Product` dans le module `App` ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/13-importer-module-product-dans-module-app))
 14. Tester la route de votre controlleur `Product` avec Postman
 
-## Persistance de donnée
+## Persistance de données
 
 ### ORM : Prisma
 
@@ -63,3 +63,5 @@ model Users {
 ```
 
 </details>
+
+19. Migrer le schéma vers la base de donnée
