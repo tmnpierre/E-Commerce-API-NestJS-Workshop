@@ -76,5 +76,6 @@ model Users {
 22. Ajouter les propriétés : `Pseudo` et `Mail` dans le DTO `create-user`
 23. Créer une route pour créer de nouveaux utilisateurs.
 24. Créer la logique de la route de création de nouveaux utilisateur.
+25. Retourner l'utilisateur crée dans la réponse de la requête.
 
 </details>
