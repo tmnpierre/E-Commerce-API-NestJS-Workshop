@@ -71,5 +71,7 @@ model Users {
 </details>
 
 <details open><summary><h2>Création des utilisateurs</h2></summary>
+  
+21. Créer une ressource nommée `Users` avec "Nest CLI"
 
 </details>
