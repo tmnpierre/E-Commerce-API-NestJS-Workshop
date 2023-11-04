@@ -77,6 +77,5 @@ model Users {
 23. Ajouter les propriétés : `Pseudo` et `Mail` dans le DTO `create-user`
 24. Définir le service Prisma en tant que provider du module `Users`
 25. Implémenter la logique de la route `create` du controller `User` afin de créer un nouvel utilisateur dans la base de données.
-26. Retourner l'utilisateur crée dans la réponse de la requête.
 
 </details>
