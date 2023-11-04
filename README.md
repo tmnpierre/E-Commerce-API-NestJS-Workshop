@@ -11,7 +11,7 @@ Vous devez créer une API simple avec Nest qui permettra à des utilisateurs de 
    1. Un controlleur (Controller)
    2. Un service
 3. Créer une nouvelle route nommée "direBonjour" dans ce controller ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/03-cr%C3%A9er-une-route))
-4. Créer une méthode dans le service appelé "logiqueDeDireBonjour" que vous avez trouvé qui renvoie "Bonjour" ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/04-cr%C3%A9er-une-m%C3%A9thode-dans-un-service))
+4. Créer une méthode dans nommée "logiqueDeDireBonjour" dans ce service. Cette méthode doit renvoyer "Bonjour" ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/04-cr%C3%A9er-une-m%C3%A9thode-dans-un-service))
 5. Retourner le résultat de la méthode que vous avez crée dans le code de la route que vous avez crée ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/05-retourner-le-resultat))
 6. Tester votre route avec Postman
    1. L'URL de votre API est la suivante `http://localhost:3000/` ([s'y rendre](http://localhost:3000/))
