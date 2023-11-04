@@ -22,3 +22,4 @@ Vous devez créer une API simple avec Nest qui permettra à des utilisateurs de 
 11. Tranférer le controlleur, le service et le module `Product` dans un nouveau dossier nommé `Product`
 12. Lier le controlleur `Product` et le service `Product` dans le module `Product`
 13. Importer le module `Product` dans le module `App`
+14. Tester la route de votre controlleur `Product` avec Postman
