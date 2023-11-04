@@ -73,6 +73,7 @@ model Users {
 <details open><summary><h2>Création des utilisateurs</h2></summary>
 
 21. Créer une nouvelle ressource (~=module) nommée `Users` avec "Nest CLI" (Note: Une ressource est un ensemble de : controller, service, module. On appelle aussi cela un module)
-22. Créer un DTO appelé `create-new-user.dto.ts`
+22. Ajouter les propriétés : `Pseudo` et `Mail` dans le DTO `create-user`
+
 
 </details>
