@@ -20,3 +20,4 @@ Vous devez créer une API simple avec Nest qui permettra à des utilisateurs de 
 9. Créer une nouvelle route dans le controlleur `Product` qui utilise le service `Product` et renvoie un tableau de nom d'article ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/09-cr%C3%A9er-une-route))
 10. Créer un nouveau module nommé `Product`
 11. Lier le controlleur `Product` et le service `Product` dans le module `Product`
+12. Importer le module `Product` dans le module `App`
