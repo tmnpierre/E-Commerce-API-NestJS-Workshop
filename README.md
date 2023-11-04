@@ -4,7 +4,7 @@
 
 Vous devez créer une API simple avec Nest qui permettra à des utilisateurs de votre site web d'enregitrer les articles qu'ils souhaitent vendre. Cela implique que les utilisateurs doivent pouvoir ajouter des articles, ainsi que retirer leurs articles de votre site. Ils doivent aussi pouvoir consulter les articles mis en ligne par d'autres utilisateurs.
 
-## Initialisation
+<details open><summary><h2>Prise en main</h2></summary>
 
 1. Créer un projet Nest ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/01-cr%C3%A9er-un-projet-nest))
 2. Inspecter le dossier `src` de votre projet Nest pour trouver : ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/02-inspecter-src))
@@ -23,6 +23,7 @@ Vous devez créer une API simple avec Nest qui permettra à des utilisateurs de 
 12. Lier le controlleur `Product` et le service `Product` dans le module `Product` ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/12-lier-controller-et-service-au-module))
 13. Importer le module `Product` dans le module `App` ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/13-importer-module-product-dans-module-app))
 14. Tester la route de votre controlleur `Product` avec Postman
+</details>
 
 <details open><summary><h2>Persistance de données</h2></summary>
 
