@@ -73,10 +73,10 @@ model Users {
 
 <details open><summary><h2>Création des utilisateurs</h2></summary>
 
-21. Créer une nouvelle ressource (~=module) nommée `Users` avec "Nest CLI" (Note: Une ressource est un ensemble de : controller, service, module. On appelle aussi cela un module)
-22. Ajouter les propriétés : `Pseudo` et `Mail` dans le DTO `create-user`
-23. Créer une route pour créer de nouveaux utilisateurs.
-24. Créer la logique de la route de création de nouveaux utilisateur.
-25. Retourner l'utilisateur crée dans la réponse de la requête.
+22. Créer une nouvelle ressource (~=module) nommée `Users` avec "Nest CLI" (Note: Une ressource est un ensemble de : controller, service, module. On appelle aussi cela un module)
+23. Ajouter les propriétés : `Pseudo` et `Mail` dans le DTO `create-user`
+24. Créer une route pour créer de nouveaux utilisateurs.
+25. Créer la logique de la route de création de nouveaux utilisateur.
+26. Retourner l'utilisateur crée dans la réponse de la requête.
 
 </details>
