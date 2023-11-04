@@ -75,5 +75,6 @@ model Users {
 21. Créer une nouvelle ressource (~=module) nommée `Users` avec "Nest CLI" (Note: Une ressource est un ensemble de : controller, service, module. On appelle aussi cela un module)
 22. Ajouter les propriétés : `Pseudo` et `Mail` dans le DTO `create-user`
 23. Créer une route pour créer de nouveaux utilisateurs.
+24. Créer la logique de la route de création de nouveaux utilisateur.
 
 </details>
