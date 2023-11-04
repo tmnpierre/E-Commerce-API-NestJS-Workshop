@@ -65,7 +65,7 @@ model Users {
 
 </details>
 
-19. Migrer le schéma vers la base de données
+19. Migrer le schéma vers la base de données ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/19-migrer-le-sch%C3%A9ma))
 20. Vérifier que la structure de la base de données correspond bien à la définition du schéma Prisma
 
 </details>
