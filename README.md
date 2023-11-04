@@ -15,8 +15,8 @@ Vous devez créer une API simple avec Nest qui permettra à des utilisateurs de 
 5. Retourner le résultat de "logiqueDeDireBonjour" par la route "direBonjour" ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/05-retourner-le-resultat))
 6. Tester votre route avec Postman
    1. L'URL de votre API est la suivante `http://localhost:3000/` ([s'y rendre](http://localhost:3000/))
-7. Créer un controller appellé "Product" ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/07-cr%C3%A9er-un-controller))
-8. Créer un service pour ce nouveau controller appellé "Product" ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/08-cr%C3%A9er-un-service))
+7. Créer un nouveau controller appellé "Product" ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/07-cr%C3%A9er-un-controller))
+8. Créer un nouveau service pour ce nouveau controller appellé "Product" ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/08-cr%C3%A9er-un-service))
 9. Créer une route dans ce controlleur pour récupérer un tableau de nom de produit ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/09-cr%C3%A9er-une-route))
 10. Ajouter le nouveau controller en tant que controller du module `App` ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/10-ajouter-le-controlleur-au-module))
 11. Ajouter le nouveau service en tant que provider du module `App` ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/11-ajouter-le-service-au-module))
