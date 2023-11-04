@@ -74,5 +74,6 @@ model Users {
 
 21. Créer une nouvelle ressource (~=module) nommée `Users` avec "Nest CLI" (Note: Une ressource est un ensemble de : controller, service, module. On appelle aussi cela un module) 
 22. Supprimer le contenu du dossier `dto` du module `Users`
+23. Créer un DTO appelé `create-user.dto.ts`
 
 </details>
