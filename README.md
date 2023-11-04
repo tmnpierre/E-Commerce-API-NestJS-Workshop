@@ -64,4 +64,4 @@ model Users {
 
 </details>
 
-19. Migrer le schéma vers la base de donnée
+19. Migrer le schéma vers la base de données
