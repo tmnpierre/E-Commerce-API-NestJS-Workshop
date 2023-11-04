@@ -31,3 +31,33 @@ Vous devez créer une API simple avec Nest qui permettra à des utilisateurs de 
 15. Installer `prisma` en tant que dépendance de développement du projet Nest
 16. Installer le client prisma (paquet `@prisma/client`) en tant que dépendance du projet
 17. Initialiser `prisma` dans le projet Nest 
+18. <details><summary>Importer ce schéma dans le projet</summary>
+
+```prisma
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DB_URL")
+}
+
+model Products {
+  UUID        String @id(map: "products_uuid") @unique() @default(uuid()) @db.VarChar(36) //UUIDv4
+  Name        String @db.VarChar(50)
+  Price       Int
+  Description String @db.Text()
+  authorUUID  String @db.VarChar(36) // Ref to UUIDv4
+  Author      Users  @relation(map: "product_author", fields: [authorUUID], references: [UUID])
+}
+
+model Users {
+  UUID     String     @id(map: "users_uuid") @unique() @default(uuid()) @db.VarChar(36) //UUIDv4
+  Pseudo   String     @unique() @db.VarChar(50)
+  Mail     String     @unique() @db.VarChar(75)
+  Products Products[]
+}
+```
+
+</details>
