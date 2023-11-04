@@ -25,3 +25,7 @@ Vous devez créer une API simple avec Nest qui permettra à des utilisateurs de 
 14. Tester la route de votre controlleur `Product` avec Postman
 
 ## Persistance de donnée
+
+### ORM : Prisma
+
+15. Installer `prisma` en tant que dépendance de votre projet Nest
