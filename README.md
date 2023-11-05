@@ -80,5 +80,8 @@ model Users {
 26. Créer une route pour récupérer les informations d'un utilisateur par son UUID.
 27. Créer une route pour modifier les informations d'un utilisateur.
 28. Créer une route pour supprimenr un utilisateur par son UUID.
+29. Normaliser toutes les réponses du controller `Users` sous le format suivant : 
+    1. Un champ de message qui doit dire que l'opération à bien été exécutée nommé `message`.
+    2. Un champ de données qui doit contenir le résultat de l'opération nommé `data`.
 
 </details>
