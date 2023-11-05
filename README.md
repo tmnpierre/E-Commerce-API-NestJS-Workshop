@@ -94,7 +94,7 @@ model Users {
 
 33. Installer `Swagger` en tant que dépendance du projet.
 34. Configurer `Swagger` pour être utilisé par Nest.
-35. Documenter le controller `Users` pour être référencé séparément dans la documentation `Swagger`.
+35. Utiliser le décorateur `Swagger` approprié pour documenter les routes du controller `Users` séparément.
 36. Documenter les champs du DTO de création d'utilisateur en utilisant le décorateur `Swagger` approprié.
 
 </details>
