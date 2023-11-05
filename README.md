@@ -93,5 +93,6 @@ model Users {
 <summary><h2>Documentation de l'API : Swagger</h2></summary>
 
 32. Installer `Swagger` en tant que dépendance du projet.
+33. Configurer `Swagger` pour être utilisé par Nest.
 
 </details>
