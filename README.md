@@ -113,5 +113,6 @@ model Users {
 <details open>
 <summary><h2>Imports de provider dans un service</h2></summary>
 
+42. Créer une route pour récupérer les articles d'un utilisateur (En fonction de l'UUID de l'utilisateur)
 
 </details>
