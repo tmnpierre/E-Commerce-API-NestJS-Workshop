@@ -74,7 +74,7 @@ model Users {
 <details open><summary><h2>Création des utilisateurs</h2></summary>
 
 22. Créer une nouvelle ressource (~=module) nommée `Users` avec "Nest CLI" (Note: Une ressource est un ensemble de : controller, service, module. On appelle aussi cela un module). ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/22-cr%C3%A9er-ressource-users)) 
-23. Ajouter les propriétés : `Pseudo` et `Mail` dans le DTO `create-user`.
+23. Ajouter les propriétés : `Pseudo` et `Mail` dans le DTO `create-user`. ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/23-ajouter-les-propri%C3%A9t%C3%A9s-au-dto)) 
 24. Définir le service Prisma en tant que provider du module `Users`.
 25. Implémenter la logique de la route `create` du controller `User` afin de créer un nouvel utilisateur dans la base de données.
 
