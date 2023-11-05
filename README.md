@@ -83,7 +83,7 @@ model Users {
 29. Normaliser toutes les réponses du controller `Users` sous le format suivant : 
     1. Un champ de message qui doit dire que l'opération à bien été exécutée nommé `message`.
     2. Un champ de données qui doit contenir le résultat de l'opération nommé `data`. ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/29-normaliser-les-r%C3%A9ponses))
-30. Préparer la validation des données envoyées par l'utilisateur en utilisant la `Validation Pipe` et ses décorateurs.
+30. Préparer la validation des données envoyées par l'utilisateur en utilisant la `Validation Pipe` et ses décorateurs. ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/30-valider-les-entr%C3%A9es-utilisateurs))
 31. Utiliser la `Validation Pipe` comme `Global Pipe`.
 32. Transformer automatiquement les données envoyées par l'utilisateur dans le type attendu dans le DTO grâce à la `Validation Pipe`.
 
