@@ -92,9 +92,9 @@ model Users {
 <details open>
 <summary><h2>Documentation de l'API : Swagger</h2></summary>
 
-32. Installer `Swagger` en tant que dépendance du projet.
-33. Configurer `Swagger` pour être utilisé par Nest.
-34. Documenter le controller `Users` pour être référencé séparément dans la documentation `Swagger`.
-35. Documenter les champs du DTO de création d'utilisateur en utilisant le décorateur `Swagger` approprié.
+33. Installer `Swagger` en tant que dépendance du projet.
+34. Configurer `Swagger` pour être utilisé par Nest.
+35. Documenter le controller `Users` pour être référencé séparément dans la documentation `Swagger`.
+36. Documenter les champs du DTO de création d'utilisateur en utilisant le décorateur `Swagger` approprié.
 
 </details>
