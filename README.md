@@ -85,5 +85,6 @@ model Users {
     2. Un champ de données qui doit contenir le résultat de l'opération nommé `data`.
 30. Valider les données envoyées par l'utilisateur en utilisant la `Validation Pipe` et ses décorateurs.
 31. Utiliser la `Validation Pipe` comme `Global Pipe`.
+32. Transformer automatiquement les données envoyées par l'utilisateur dans le type attendu dans le DTO grâce à la `Validation Pipe`.
 
 </details>
