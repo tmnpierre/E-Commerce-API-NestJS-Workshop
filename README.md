@@ -114,5 +114,6 @@ model Users {
 <summary><h2>Imports de provider dans un service</h2></summary>
 
 42. Créer une route pour récupérer les articles d'un utilisateur (En fonction de l'UUID de l'utilisateur)
+43. Pour supprimer tous les articles d'un utilisateur
 
 </details>
