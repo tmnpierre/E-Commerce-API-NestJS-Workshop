@@ -84,5 +84,6 @@ model Users {
     1. Un champ de message qui doit dire que l'opération à bien été exécutée nommé `message`.
     2. Un champ de données qui doit contenir le résultat de l'opération nommé `data`.
 30. Valider les données envoyées par l'utilisateur en utilisant la `Validation Pipe` et ses décorateurs.
+31. Utiliser la `Validation Pipe` comme `Global Pipe`.
 
 </details>
