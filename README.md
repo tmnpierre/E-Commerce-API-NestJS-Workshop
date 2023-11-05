@@ -77,8 +77,8 @@ model Users {
 23. Ajouter les propriétés : `Pseudo` et `Mail` dans le DTO `create-user`. ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/23-ajouter-les-propri%C3%A9t%C3%A9s-au-dto)) 
 24. Définir le service Prisma en tant que provider du module `Users`. ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/24-utiliser-le-service-prisma-comme-provider)) 
 25. Implémenter la logique de la route `create` du controller `User` afin de créer un nouvel utilisateur dans la base de données. ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/25-impl%C3%A9menter-la-logique-de-la-route-create)) 
-26. Créer une route pour récupérer les informations d'un utilisateur par son UUID. ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/26-cr%C3%A9er-une-route-pour-r%C3%A9cup%C3%A9rer)) 
-27. Créer une route pour modifier les informations d'un utilisateur.
+26. Créer une route pour récupérer les informations d'un utilisateur par son UUID. ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/26-cr%C3%A9er-une-route-pour-r%C3%A9cup%C3%A9rer))
+27. Créer une route pour modifier les informations d'un utilisateur. ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/27-cr%C3%A9er-une-route-pour-modifier))
 28. Créer une route pour supprimenr un utilisateur par son UUID.
 29. Normaliser toutes les réponses du controller `Users` sous le format suivant : 
     1. Un champ de message qui doit dire que l'opération à bien été exécutée nommé `message`.
