@@ -108,6 +108,7 @@ model Users {
 <details open>
 <summary><h2>Utilisation d'un service depuis un autre module</h2></summary>
 
+42. Définir le service `Products` en tant que provider du module `Users`.
 42. Créer une route pour récupérer les articles d'un utilisateur (en fonction de l'UUID de l'utilisateur).
 43. Créer une route pour supprimer tous les articles d'un utilisateur.
 
