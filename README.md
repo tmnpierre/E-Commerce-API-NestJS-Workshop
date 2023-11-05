@@ -14,7 +14,7 @@ Vous devez créer une API simple avec Nest qui permettra à des utilisateurs de 
 4. Créer une méthode nommée "logiqueDeDireBonjour" dans ce service. Cette méthode doit renvoyer "Bonjour". ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/04-cr%C3%A9er-une-m%C3%A9thode-dans-un-service))
 5. Retourner le résultat de "logiqueDeDireBonjour" par la route "direBonjour". ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/05-retourner-le-resultat))
 6. Tester votre route avec Postman.
-   1. L'URL par défaut de API est la suivante : `http://localhost:3000/` ([s'y rendre](http://localhost:3000/))
+   1. L'URL par défaut de l'API est la suivante : `http://localhost:3000/` ([s'y rendre](http://localhost:3000/))
 7. Créer un nouveau controller appellé "Product". ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/07-cr%C3%A9er-un-controller))
 8. Créer un nouveau service pour ce nouveau controller nommé "Product". ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/08-cr%C3%A9er-un-service))
 9. Créer une nouvelle route dans le controlleur `Product` qui utilise le service `Product` et renvoie un tableau de nom d'article. ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/09-cr%C3%A9er-une-route))
