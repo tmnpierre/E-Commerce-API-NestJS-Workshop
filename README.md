@@ -102,5 +102,6 @@ model Users {
 <details open>
 <summary><h2>CRUD pour les produits</h2></summary>
 
+37. Développer une route entière pour créer de nouveaux produits
 
 </details>
