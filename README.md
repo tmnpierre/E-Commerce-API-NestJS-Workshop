@@ -6,23 +6,23 @@ Vous devez créer une API simple avec Nest qui permettra à des utilisateurs de 
 
 <details open><summary><h2>Prise en main</h2></summary>
 
-1. Créer un projet Nest ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/01-cr%C3%A9er-un-projet-nest))
-2. Inspecter le dossier `src` de votre projet Nest pour trouver : ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/02-inspecter-src))
+1. Créer un projet Nest. ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/01-cr%C3%A9er-un-projet-nest))
+2. Inspecter le dossier `src` du projet Nest pour trouver : ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/02-inspecter-src))
    1. Un controlleur (Controller)
    2. Un service
-3. Créer une nouvelle route nommée "direBonjour" dans ce controller ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/03-cr%C3%A9er-une-route))
-4. Créer une méthode dans nommée "logiqueDeDireBonjour" dans ce service. Cette méthode doit renvoyer "Bonjour" ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/04-cr%C3%A9er-une-m%C3%A9thode-dans-un-service))
-5. Retourner le résultat de "logiqueDeDireBonjour" par la route "direBonjour" ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/05-retourner-le-resultat))
-6. Tester votre route avec Postman
-   1. L'URL de votre API est la suivante `http://localhost:3000/` ([s'y rendre](http://localhost:3000/))
-7. Créer un nouveau controller appellé "Product" ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/07-cr%C3%A9er-un-controller))
-8. Créer un nouveau service pour ce nouveau controller appellé "Product" ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/08-cr%C3%A9er-un-service))
-9. Créer une nouvelle route dans le controlleur `Product` qui utilise le service `Product` et renvoie un tableau de nom d'article ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/09-cr%C3%A9er-une-route))
-10. Créer un nouveau module nommé `Product` ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/10-cr%C3%A9er-un-module-product))
-11. Tranférer le controlleur, le service et le module `Product` dans un nouveau dossier nommé `Product` ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/11-transf%C3%A9rer-dans-un-dossier))
-12. Lier le controlleur `Product` et le service `Product` dans le module `Product` ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/12-lier-controller-et-service-au-module))
-13. Importer le module `Product` dans le module `App` ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/13-importer-module-product-dans-module-app))
-14. Tester la route de votre controlleur `Product` avec Postman
+3. Créer une nouvelle route nommée "direBonjour" dans ce controller. ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/03-cr%C3%A9er-une-route))
+4. Créer une méthode nommée "logiqueDeDireBonjour" dans ce service. Cette méthode doit renvoyer "Bonjour". ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/04-cr%C3%A9er-une-m%C3%A9thode-dans-un-service))
+5. Retourner le résultat de "logiqueDeDireBonjour" par la route "direBonjour". ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/05-retourner-le-resultat))
+6. Tester votre route avec Postman.
+   1. L'URL par défaut de API est la suivante : `http://localhost:3000/` ([s'y rendre](http://localhost:3000/))
+7. Créer un nouveau controller appellé "Product". ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/07-cr%C3%A9er-un-controller))
+8. Créer un nouveau service pour ce nouveau controller nommé "Product". ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/08-cr%C3%A9er-un-service))
+9. Créer une nouvelle route dans le controlleur `Product` qui utilise le service `Product` et renvoie un tableau de nom d'article. ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/09-cr%C3%A9er-une-route))
+10. Créer un nouveau module nommé `Product`. ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/10-cr%C3%A9er-un-module-product))
+11. Tranférer le controlleur, le service et le module `Product` dans un nouveau dossier nommé `Product`. ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/11-transf%C3%A9rer-dans-un-dossier))
+12. Lier le controlleur `Product` et le service `Product` dans le module `Product`. ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/12-lier-controller-et-service-au-module))
+13. Importer le module `Product` dans le module `App`. ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/13-importer-module-product-dans-module-app))
+14. Tester la route de votre controlleur `Product` avec Postman.
 </details>
 
 <details open><summary><h2>Persistance de données</h2></summary>
