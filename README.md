@@ -88,3 +88,10 @@ model Users {
 32. Transformer automatiquement les données envoyées par l'utilisateur dans le type attendu dans le DTO grâce à la `Validation Pipe`. ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/32-tranformer-automatiquement-les-donn%C3%A9es))
 
 </details>
+
+<details open>
+<summary><h2>Documentation de l'API : Swagger</h2></summary>
+
+32. Installer `Swagger` en tant que dépendance du projet.
+
+</details>
