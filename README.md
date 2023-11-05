@@ -79,5 +79,6 @@ model Users {
 25. Implémenter la logique de la route `create` du controller `User` afin de créer un nouvel utilisateur dans la base de données. ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/25-impl%C3%A9menter-la-logique-de-la-route-create)) 
 26. Créer une route pour récupérer les informations d'un utilisateur par son UUID.
 27. Créer une route pour modifier les informations d'un utilisateur.
+28. Créer une route pour supprimenr un utilisateur par son UUID.
 
 </details>
