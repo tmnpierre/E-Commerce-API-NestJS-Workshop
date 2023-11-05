@@ -103,5 +103,6 @@ model Users {
 <summary><h2>CRUD pour les produits</h2></summary>
 
 37. Développer une route entière pour créer de nouveaux produits
+38. Créer une route pour récupérer un article par son UUID
 
 </details>
