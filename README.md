@@ -111,6 +111,6 @@ model Users {
 42. Définir le service `Products` en tant que provider du module `Users`.
 43. Créer une méthode dans le service `Products` pour récupérer tous les articles d'un utilisateur en fonction de l'UUID de l'utilisateur.
 44. Créer une route dans le controller `Users` qui retourne les articles d'un utilisateur.
-45. Créer une route pour supprimer tous les articles d'un utilisateur.
+45. Faire la même chose pour supprimer les articles d'un utilisateur.
 
 </details>
