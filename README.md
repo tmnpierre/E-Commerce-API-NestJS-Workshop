@@ -94,5 +94,6 @@ model Users {
 
 32. Installer `Swagger` en tant que dépendance du projet.
 33. Configurer `Swagger` pour être utilisé par Nest.
+34. Documenter le controller `Users` pour être référencer différement dans la documentation `Swagger`
 
 </details>
