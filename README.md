@@ -96,6 +96,7 @@ model Users {
 34. Configurer `Swagger` pour être utilisé par Nest. ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/34-configurer-swagger))
 35. Utiliser le décorateur `Swagger` approprié pour documenter les routes du controller `Users` séparément. ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/35-documenter-le-controller-users))
 36. Documenter les champs du DTO de création d'utilisateur en utilisant le décorateur `Swagger` approprié. ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/36-documenter-les-champs-d'un-dto))
+37. Tester la documentation Swagger en se rendant à l'URL `http://localhost:3000/api` ([s'y rendre](http://localhost:3000/api))
 
 </details>
 
