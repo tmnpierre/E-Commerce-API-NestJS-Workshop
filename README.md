@@ -24,7 +24,6 @@ Vous devez créer une API simple avec Nest qui permettra à des utilisateurs de 
 13. Importer le module `Product` dans le module `App`. ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/13-importer-module-product-dans-module-app))
 14. Tester la route de votre controlleur `Product` avec Postman.
 </details>
-
 <details open><summary><h2>Persistance de données</h2></summary>
 
 ### ORM : Prisma
@@ -70,7 +69,6 @@ model Users {
 21. Vérifier que la structure de la base de données correspond à la définition du schéma Prisma.
 
 </details>
-
 <details open><summary><h2>Création des utilisateurs</h2></summary>
 
 22. Créer une nouvelle ressource (~=module) nommée `Users` avec "Nest CLI" (Note: Une ressource est un ensemble de : controller, service, module. On appelle aussi cela un module). ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/22-cr%C3%A9er-ressource-users)) 
@@ -88,7 +86,6 @@ model Users {
 32. Transformer automatiquement les données envoyées par l'utilisateur dans le type attendu dans le DTO grâce à la `Validation Pipe`. ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/32-tranformer-automatiquement-les-donn%C3%A9es))
 
 </details>
-
 <details open>
 <summary><h2>Documentation de l'API : Swagger</h2></summary>
 
@@ -99,7 +96,6 @@ model Users {
 37. Tester la documentation Swagger en se rendant à l'URL `http://localhost:3000/api` ([s'y rendre](http://localhost:3000/api))
 
 </details>
-
 <details open>
 <summary><h2>CRUD pour les produits</h2></summary>
 
@@ -109,7 +105,6 @@ model Users {
 41. Créer une route pour supprimer un article par son UUID.
 
 </details>
-
 <details open>
 <summary><h2>Utilisation d'un service depuis un autre module</h2></summary>
 
