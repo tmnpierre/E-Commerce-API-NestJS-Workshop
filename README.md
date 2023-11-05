@@ -111,6 +111,7 @@ model Users {
 </details>
 
 <details open>
-<summary><h2>Imports de service avancés</h2></summary>
+<summary><h2>Imports de provider dans un service</h2></summary>
+
 
 </details>
