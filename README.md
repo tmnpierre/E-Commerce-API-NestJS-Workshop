@@ -102,7 +102,7 @@ model Users {
 <details open>
 <summary><h2>CRUD pour les produits</h2></summary>
 
-37. Développer une route entière pour créer de nouveaux produits
+37. Créer une route et ses besoins annexes pour enregistrer de nouveaux article.
 38. Créer une route pour récupérer un article par son UUID
 
 </details>
