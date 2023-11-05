@@ -101,7 +101,7 @@ model Users {
 
 38. Créer une route et ses besoins annexes pour enregistrer de nouveaux article.
 39. Créer une route pour récupérer un article par son UUID.
-40. Créer une route pour modifier les informations d'un article par son UUID.
+40. Créer une route et ses besoins annexes pour modifier les informations d'un article par son UUID.
 41. Créer une route pour supprimer un article par son UUID.
 
 </details>
