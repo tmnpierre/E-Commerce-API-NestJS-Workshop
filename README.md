@@ -98,3 +98,9 @@ model Users {
 36. Documenter les champs du DTO de création d'utilisateur en utilisant le décorateur `Swagger` approprié. ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/36-documenter-les-champs-d'un-dto))
 
 </details>
+
+<details open>
+<summary><h2>CRUD pour les produits</h2></summary>
+
+
+</details>
