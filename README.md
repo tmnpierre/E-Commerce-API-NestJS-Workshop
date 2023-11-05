@@ -104,16 +104,16 @@ model Users {
 <summary><h2>CRUD pour les produits</h2></summary>
 
 38. Créer une route et ses besoins annexes pour enregistrer de nouveaux article.
-39. Créer une route pour récupérer un article par son UUID
-40. Créer une route pour modifier les informations d'un article par son UUID
-41. Créer une route pour supprimer un article par son UUID
+39. Créer une route pour récupérer un article par son UUID.
+40. Créer une route pour modifier les informations d'un article par son UUID.
+41. Créer une route pour supprimer un article par son UUID.
 
 </details>
 
 <details open>
 <summary><h2>Imports de provider dans un service</h2></summary>
 
-42. Créer une route pour récupérer les articles d'un utilisateur (En fonction de l'UUID de l'utilisateur)
-43. Créer une route pour supprimer tous les articles d'un utilisateur
+42. Créer une route pour récupérer les articles d'un utilisateur (en fonction de l'UUID de l'utilisateur).
+43. Créer une route pour supprimer tous les articles d'un utilisateur.
 
 </details>
