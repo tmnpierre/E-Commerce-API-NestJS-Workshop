@@ -122,6 +122,7 @@ model Users {
 <summary><h3>Préparation</h3></summary>
 
 46. Modifier le schéma pour permettre l'authentification des utilisateurs
+47. Migrer le nouveau schéma `Prisma` pour mettre à jour la structure de la base de données
 
 </details>
 
