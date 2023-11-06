@@ -129,8 +129,9 @@ model Users {
 </details>
 
 50. Créer un module `Auth` dédiée à l'authentification des utilisateurs.
-51. Créer une route pour la connexion des utilisateurs.
-52. Créer une méthode dans le service `Auth` pour utiliser le service `Jwt` fourni par Nest.
-53. Implémenter la stratégie `Jwt` pour le module Auth.
+51. Créer une route et ses besoins connexes pour enregister de nouveaux utilisateurs.
+52. Créer une route pour la connexion des utilisateurs.
+53. Créer une méthode dans le service `Auth` pour utiliser le service `Jwt` fourni par Nest.
+54. Implémenter la stratégie `Jwt` pour le module Auth.
 
 </details>
