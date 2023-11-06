@@ -117,4 +117,9 @@ model Users {
 
 <details open>
 <summary><h2>Authentification</h2></summary>
+
+<details open>
+<summary><h3>Préparation</h3></summary>
+</details>
+
 </details>
