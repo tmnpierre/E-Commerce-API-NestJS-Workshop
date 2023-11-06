@@ -6,32 +6,32 @@ Vous devez créer une API simple avec Nest qui permettra à des utilisateurs de 
 
 <details open><summary><h2>Prise en main</h2></summary>
 
-1. Créer un projet Nest. ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/01-cr%C3%A9er-un-projet-nest))
-2. Inspecter le dossier `src` du projet Nest pour trouver : ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/02-inspecter-src))
+1. Créer un projet Nest.
+2. Inspecter le dossier `src` du projet Nest pour trouver :
    1. Un controlleur (Controller)
    2. Un service
-3. Créer une nouvelle route nommée "sayGoodbye" dans ce controller. ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/03-cr%C3%A9er-une-route))
-4. Créer une méthode nommée "logicToSayGoodbye" dans ce service. Cette méthode doit renvoyer "Goodbye". ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/04-cr%C3%A9er-une-m%C3%A9thode-dans-un-service))
-5. Retourner le résultat de "logicToSayGoodbye" par la route "sayGoodbye". ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/05-retourner-le-resultat))
+3. Créer une nouvelle route nommée "sayGoodbye" dans ce controller.
+4. Créer une méthode nommée "logicToSayGoodbye" dans ce service. Cette méthode doit renvoyer "Goodbye".
+5. Retourner le résultat de "logicToSayGoodbye" par la route "sayGoodbye".
 6. Tester votre route avec Postman.
    1. L'URL par défaut de l'API est la suivante : `http://localhost:3000/` ([s'y rendre](http://localhost:3000/))
-7. Créer un nouveau controller appellé "Product". ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/07-cr%C3%A9er-un-controller))
-8. Créer un nouveau service pour ce nouveau controller nommé "Product". ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/08-cr%C3%A9er-un-service))
-9. Créer une nouvelle route dans le controller `Product` qui utilise le service `Product` et renvoie un tableau de nom d'article. ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/09-cr%C3%A9er-une-route))
-10. Créer un nouveau module nommé `Product`. ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/10-cr%C3%A9er-un-module-product))
-11. Tranférer le controller, le service et le module `Product` dans un nouveau dossier nommé `Product`. ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/11-transf%C3%A9rer-dans-un-dossier))
-12. Lier le controller `Product` et le service `Product` dans le module `Product`. ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/12-lier-controller-et-service-au-module))
-13. Importer le module `Product` dans le module `App`. ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/13-importer-module-product-dans-module-app))
+7. Créer un nouveau controller appellé "Product".
+8. Créer un nouveau service pour ce nouveau controller nommé "Product".
+9. Créer une nouvelle route dans le controller `Product` qui utilise le service `Product` et renvoie un tableau de nom d'article.
+10. Créer un nouveau module nommé `Product`.
+11. Tranférer le controller, le service et le module `Product` dans un nouveau dossier nommé `Product`.
+12. Lier le controller `Product` et le service `Product` dans le module `Product`.
+13. Importer le module `Product` dans le module `App`.
 14. Tester la route du controller `Product` avec Postman.
 </details>
 <details open><summary><h2>Persistance de données</h2></summary>
 
 ### ORM : Prisma
 
-15. Installer `prisma` en tant que dépendance de développement du projet Nest. ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/15-installer-prisma))
-16. Installer le client prisma (paquet `@prisma/client`) en tant que dépendance du projet. ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/16-installer-le-client-prisma))
-17. Initialiser `prisma` dans le projet Nest. ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/17-initialiser-prisma))
-18. Importer ce schéma dans le projet Nest. ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/18-importer-le-sch%C3%A9ma))
+1.  Installer `prisma` en tant que dépendance de développement du projet Nest.
+2.  Installer le client prisma (paquet `@prisma/client`) en tant que dépendance du projet.
+3.  Initialiser `prisma` dans le projet Nest.
+4.  Importer ce schéma dans le projet Nest.
 <details>  
 <summary>Schéma</summary>
 
@@ -64,9 +64,9 @@ model Users {
 
 </details>
 
-19. Migrer le schéma vers la base de données. ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/19-migrer-le-sch%C3%A9ma))
-20. Créer le service `Prisma`. ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/20-cr%C3%A9er-le-service-prisma)) 
-21. Vérifier que la structure de la base de données correspond à la définition du schéma Prisma.
+1.  Migrer le schéma vers la base de données.
+2.  Créer le service `Prisma`.
+3.  Vérifier que la structure de la base de données correspond à la définition du schéma Prisma.
 
 </details>
 <details open><summary><h2>Création des utilisateurs</h2></summary>
