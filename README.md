@@ -136,7 +136,8 @@ model Users {
        2. Enregister le nouvel utilisateur en base de données.
 52. Créer une route pour la connexion des utilisateurs.
     1. Créer une méthode dans le service `Users` pour récupérer un utilisateur par le nom d'utilisateur.
-    2. Utiliser le `Jwt Service` et le `Users Service` dans le module `Auth`. 
+    2. Utiliser le `Jwt Service` et le `Users Service` dans le module `Auth`.
+    3. Créer la logique pour authentifier un utilisateur 
 53. Créer une méthode dans le service `Auth` pour utiliser le service `Jwt` fourni par Nest.
 54. Implémenter la stratégie `Jwt` pour le module Auth.
 
