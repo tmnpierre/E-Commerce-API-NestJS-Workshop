@@ -129,5 +129,6 @@ model Users {
 </details>
 
 50. Créer un module `Auth` dédiée à l'authentification des utilisateurs.
+51. Créer une route pour la connexion des utilisateurs.
 
 </details>
