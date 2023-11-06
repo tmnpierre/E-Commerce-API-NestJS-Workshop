@@ -144,5 +144,7 @@ model Users {
 53. Implémenter la stratégie `Jwt` pour le module Auth.
 54. Créer un `Guard` d'authentification.
 55. Rendre l'authentication globale à l'API (faire que chaque route de l'API nécessite une authentification).
+56. Permettre à certaines routes de ne pas nécessiter d'authentification grâce à un décorateur personnalisé.
+
 
 </details>
