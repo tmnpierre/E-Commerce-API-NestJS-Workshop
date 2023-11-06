@@ -114,3 +114,7 @@ model Users {
 45. Faire la même chose pour supprimer les articles d'un utilisateur. ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/45-on-prend-les-m%C3%AAmes-et-on-recommence))
 
 </details>
+
+<details open>
+<summary><h2>Authentification</h2></summary>
+</details>
