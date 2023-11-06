@@ -143,5 +143,6 @@ model Users {
           2. L'UUID de l'utilisateur.
 53. Implémenter la stratégie `Jwt` pour le module Auth.
 54. Créer un `Guard` d'authentification.
+55. Rendre l'authentication globale à l'API (faire que chaque route de l'API nécessite une authentification).
 
 </details>
