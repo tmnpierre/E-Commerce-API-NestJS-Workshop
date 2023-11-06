@@ -124,7 +124,7 @@ model Users {
 1.  Modifier le schéma `Prisma` pour permettre l'authentification des utilisateurs. ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/46-modifier-le-sch%C3%A9ma))
 2.  Migrer le nouveau schéma `Prisma` pour mettre à jour la structure de la base de données. ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/47-migrer-le-sch%C3%A9ma))
 3.  Installer les paquets `passport-jwt`. ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/48-installer-passport))
-4.  Installer les paquets `bcrypt`.
+4.  Installer les paquets `bcrypt`. ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/49-installer-bcrypt))
 
 </details>
 
