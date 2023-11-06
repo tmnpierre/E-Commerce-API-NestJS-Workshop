@@ -133,6 +133,8 @@ model Users {
 52. Créer une route et ses besoins connexes pour enregister de nouveaux utilisateurs.
     1. Créer un dto pour enregistre les nouveaux conptes.
     2. Créer une route dans le controller.
+    3. Créer une logique pour cette route :
+       1. Hasher le mot de passe avec `bcrypt` avant de l'enregistrer en base de données.
 53. Créer une route pour la connexion des utilisateurs.
 54. Créer une méthode dans le service `Auth` pour utiliser le service `Jwt` fourni par Nest.
 55. Implémenter la stratégie `Jwt` pour le module Auth.
