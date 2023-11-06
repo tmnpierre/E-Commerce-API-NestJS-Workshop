@@ -22,7 +22,7 @@ Vous devez créer une API simple avec Nest qui permettra à des utilisateurs de 
 11. Tranférer le controller, le service et le module `Product` dans un nouveau dossier nommé `Product`. ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/11-transf%C3%A9rer-dans-un-dossier))
 12. Lier le controller `Product` et le service `Product` dans le module `Product`. ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/12-lier-controller-et-service-au-module))
 13. Importer le module `Product` dans le module `App`. ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/13-importer-module-product-dans-module-app))
-14. Tester la route de votre controller `Product` avec Postman.
+14. Tester la route du controller `Product` avec Postman.
 </details>
 <details open><summary><h2>Persistance de données</h2></summary>
 
