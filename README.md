@@ -123,7 +123,7 @@ model Users {
 
 46. Modifier le schéma `Prisma` pour permettre l'authentification des utilisateurs.
 47. Migrer le nouveau schéma `Prisma` pour mettre à jour la structure de la base de données.
-48. Installer le paquet `passport`.
+48. Installer le paquet `passport-jwt`.
 49. Installer le paquet `bcrypt`.
 
 </details>
