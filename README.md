@@ -99,10 +99,10 @@ model Users {
 <details open>
 <summary><h2>CRUD pour les produits</h2></summary>
 
-38. Créer une route et ses besoins annexes pour enregistrer de nouveaux article. ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/38-cr%C3%A9er-une-route-pour-enregistrer-de-nouveaux-articles))
-39. Créer une route pour récupérer un article par son UUID. ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/39-cr%C3%A9er-une-route-pour-r%C3%A9cup%C3%A9rer-un-produit))
-40. Créer une route et ses besoins annexes pour modifier les informations d'un article par son UUID. ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/40-cr%C3%A9er-une-route-pour-modifier-un-produit))
-41. Créer une route pour supprimer un article par son UUID. ([solution de l'étape](https://github.com/benjGam/E-Commerce-API-NW/tree/41-cr%C3%A9er-une-route-pour-supprimer-un-article))
+1.  Créer une route et ses besoins annexes pour enregistrer de nouveaux article.
+2.  Créer une route pour récupérer un article par son UUID.
+3.  Créer une route et ses besoins annexes pour modifier les informations d'un article par son UUID.
+4.  Créer une route pour supprimer un article par son UUID.
 
 </details>
 <details open>
