@@ -129,7 +129,7 @@ model Users {
 </details>
 
 50. Créer un module `Auth` dédiée à l'authentification des utilisateurs.
-51. Supprimer la route d'enregistrement des utilisateurs dans le module `Users`.
+51. Supprimer la route d'enregistrement des utilisateurs du module `Users`.
 52. Créer une route et ses besoins connexes pour enregister de nouveaux utilisateurs.
 53. Créer une route pour la connexion des utilisateurs.
 54. Créer une méthode dans le service `Auth` pour utiliser le service `Jwt` fourni par Nest.
