@@ -141,7 +141,6 @@ model Users {
        1. Renvoyez uniquement un objet contenant un champ : `access_token` contenant le JWT signé avec les informations suivantes :
           1. Le nom d'utilisateur de l'utilisateur
           2. L'UUID de l'utilisateur 
-53. Créer une méthode dans le service `Auth` pour utiliser le service `Jwt` fourni par Nest.
-54. Implémenter la stratégie `Jwt` pour le module Auth.
+53. Implémenter la stratégie `Jwt` pour le module Auth.
 
 </details>
