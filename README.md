@@ -128,4 +128,6 @@ model Users {
 
 </details>
 
+50. Créer un module `Auth` dédiée à l'authentification des utilisateurs.
+
 </details>
