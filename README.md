@@ -142,5 +142,6 @@ model Users {
           1. Le nom d'utilisateur de l'utilisateur
           2. L'UUID de l'utilisateur 
 53. Implémenter la stratégie `Jwt` pour le module Auth.
+54. Créer un `Guard` d'authentification.
 
 </details>
