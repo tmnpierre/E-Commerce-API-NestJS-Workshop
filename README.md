@@ -137,10 +137,10 @@ model Users {
 52. Créer une route pour la connexion des utilisateurs.
     1. Créer une méthode dans le service `Users` pour récupérer un utilisateur par le nom d'utilisateur.
     2. Utiliser le `Jwt Service` et le `Users Service` dans le module `Auth`.
-    3. Créer la logique pour authentifier un utilisateur
+    3. Créer la logique pour authentifier un utilisateur.
        1. Renvoyez uniquement un objet contenant un champ : `access_token` contenant le JWT signé avec les informations suivantes :
-          1. Le nom d'utilisateur de l'utilisateur
-          2. L'UUID de l'utilisateur 
+          1. Le nom d'utilisateur de l'utilisateur.
+          2. L'UUID de l'utilisateur.
 53. Implémenter la stratégie `Jwt` pour le module Auth.
 54. Créer un `Guard` d'authentification.
 
