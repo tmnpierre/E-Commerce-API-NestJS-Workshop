@@ -129,10 +129,9 @@ model Users {
 </details>
 
 50. Créer un module `Auth` dédiée à l'authentification des utilisateurs.
-51. Créer une route et ses besoins connexes pour enregister de nouveaux utilisateurs.
-    1. Créer un dto pour enregistre les nouveaux conptes.
-    2. Créer une route dans le controller.
-    3. Créer une logique pour cette route :
+51. Modifier la route et ses besoins connexes pour enregister de nouveaux utilisateurs.
+    1. Adapter le dto pour enregistrer les nouveaux conptes.
+    2. Adapter la logique pour cette route :
        1. Hasher le mot de passe avec `bcrypt` avant de l'enregistrer en base de données.
        2. Enregister le nouvel utilisateur en base de données.
 52. Créer une route pour la connexion des utilisateurs.
