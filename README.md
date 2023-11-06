@@ -130,7 +130,7 @@ model Users {
 
 50. Créer un module `Auth` dédiée à l'authentification des utilisateurs.
 51. Modifier la route et ses besoins connexes pour enregister de nouveaux utilisateurs.
-    1. Adapter le dto pour enregistrer les nouveaux conptes.
+    1. Adapter le dto pour enregistrer les nouveaux comptes.
     2. Adapter la logique pour cette route :
        1. Hasher le mot de passe avec `bcrypt` avant de l'enregistrer en base de données.
        2. Enregister le nouvel utilisateur en base de données.
