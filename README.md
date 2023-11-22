@@ -28,10 +28,10 @@ Vous devez créer une API simple avec Nest qui permettra à des utilisateurs de 
 
 ### ORM : Prisma
 
-1.  Installer `prisma` en tant que dépendance de développement du projet Nest.
-2.  Installer le client prisma (paquet `@prisma/client`) en tant que dépendance du projet.
-3.  Initialiser `prisma` dans le projet Nest.
-4.  Importer ce schéma dans le projet Nest.
+15. Installer `prisma` en tant que dépendance de développement du projet Nest.
+16. Installer le client prisma (paquet `@prisma/client`) en tant que dépendance du projet.
+17. Initialiser `prisma` dans le projet Nest.
+18. Importer ce schéma dans le projet Nest.
 <details>  
 <summary>Schéma</summary>
 
