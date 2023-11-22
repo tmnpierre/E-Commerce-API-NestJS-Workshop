@@ -71,19 +71,19 @@ model Users {
 </details>
 <details open><summary><h2>Création des utilisateurs</h2></summary>
 
-1.  Créer une nouvelle ressource (~=module) nommée `Users` avec "Nest CLI" (Note: Une ressource est un ensemble de : controller, service, module. On appelle aussi cela un module).
-2.  Ajouter les propriétés : `Pseudo` et `Mail` dans le DTO `create-user`.
-3.  Définir le service Prisma en tant que provider du module `Users`.
-4.  Implémenter la logique de la route `create` du controller `User` afin de créer un nouvel utilisateur dans la base de données.
-5.  Créer une route pour récupérer les informations d'un utilisateur par son UUID.
-6.  Créer une route pour modifier les informations d'un utilisateur.
-7.  Créer une route pour supprimenr un utilisateur par son UUID.
-8.  Normaliser toutes les réponses du controller `Users` sous le format suivant : 
+22. Créer une nouvelle ressource (~=module) nommée `Users` avec "Nest CLI" (Note: Une ressource est un ensemble de : controller, service, module. On appelle aussi cela un module). 
+23. Ajouter les propriétés : `Pseudo` et `Mail` dans le DTO `create-user`.
+24. Définir le service Prisma en tant que provider du module `Users`.
+25. Implémenter la logique de la route `create` du controller `User` afin de créer un nouvel utilisateur dans la base de données.
+26. Créer une route pour récupérer les informations d'un utilisateur par son UUID.
+27. Créer une route pour modifier les informations d'un utilisateur.
+28. Créer une route pour supprimenr un utilisateur par son UUID.
+29. Normaliser toutes les réponses du controller `Users` sous le format suivant : 
     1. Un champ de message qui doit dire que l'opération à bien été exécutée nommé `message`.
     2. Un champ de données qui doit contenir le résultat de l'opération nommé `data`.
-9.  Préparer la validation des données envoyées par l'utilisateur en utilisant la `Validation Pipe` et ses décorateurs.
-10. Utiliser la `Validation Pipe` comme `Global Pipe`.
-11. Transformer automatiquement les données envoyées par l'utilisateur dans le type attendu dans le DTO grâce à la `Validation Pipe`.
+30. Préparer la validation des données envoyées par l'utilisateur en utilisant la `Validation Pipe` et ses décorateurs.
+31. Utiliser la `Validation Pipe` comme `Global Pipe`.
+32. Transformer automatiquement les données envoyées par l'utilisateur dans le type attendu dans le DTO grâce à la `Validation Pipe`.
 
 </details>
 <details open>
