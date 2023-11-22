@@ -99,10 +99,10 @@ model Users {
 <details open>
 <summary><h2>CRUD pour les produits</h2></summary>
 
-1.  Créer une route et ses besoins annexes pour enregistrer de nouveaux article.
-2.  Créer une route pour récupérer un article par son UUID.
-3.  Créer une route et ses besoins annexes pour modifier les informations d'un article par son UUID.
-4.  Créer une route pour supprimer un article par son UUID.
+38. Créer une route et ses besoins annexes pour enregistrer de nouveaux article.
+39. Créer une route pour récupérer un article par son UUID.
+40. Créer une route et ses besoins annexes pour modifier les informations d'un article par son UUID.
+41. Créer une route pour supprimer un article par son UUID.
 
 </details>
 <details open>
