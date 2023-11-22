@@ -121,10 +121,10 @@ model Users {
 <details open>
 <summary><h3>Préparation</h3></summary>
 
-1.  Modifier le schéma `Prisma` pour permettre l'authentification des utilisateurs.
-2.  Migrer le nouveau schéma `Prisma` pour mettre à jour la structure de la base de données.
-3.  Installer les paquets `passport`, `@nestjs/passport`, `@nestjs/passport-jwt`, `@nestjs/jwt`.
-4.  Installer les paquets `bcrypt`.
+46. Modifier le schéma `Prisma` pour permettre l'authentification des utilisateurs.
+47. Migrer le nouveau schéma `Prisma` pour mettre à jour la structure de la base de données.
+48. Installer les paquets `passport`, `@nestjs/passport`, `@nestjs/passport-jwt`, `@nestjs/jwt`.
+49. Installer les paquets `bcrypt`.
 
 </details>
 
@@ -145,6 +145,5 @@ model Users {
 54. Créer un `Guard` d'authentification.
 55. Rendre l'authentication globale à l'API (faire que chaque route de l'API nécessite une authentification).
 56. Permettre à certaines routes de ne pas nécessiter d'authentification grâce à un décorateur personnalisé.
-
 
 </details>
