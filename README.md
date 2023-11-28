@@ -128,7 +128,7 @@ model Users {
 
 </details>
 
-50. Créer un module `Auth` dédiée à l'authentification des utilisateurs.
+50. Créer un module `Auth` dédié à l'authentification des utilisateurs.
 51. Modifier la route et ses besoins connexes pour enregister de nouveaux utilisateurs.
     1. Adapter le dto pour enregistrer les nouveaux comptes.
     2. Adapter la logique pour cette route :
