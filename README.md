@@ -71,7 +71,7 @@ model Users {
 </details>
 <details open><summary><h2>Création des utilisateurs</h2></summary>
 
-22. Créer une nouvelle ressource (~=module) nommée `Users` avec "Nest CLI" (Note: Une ressource est un ensemble de : controller, service, module. On appelle aussi cela un module). 
+22. Créer une nouvelle ressource (~=module) nommée `Users` avec "Nest CLI" (Note: Une ressource est un ensemble de : controller, service, module. On appelle aussi cela un module) (Puis laisser les options par défaut). 
 23. Ajouter les propriétés : `Pseudo` et `Mail` dans le DTO `create-user`.
 24. Définir le service Prisma en tant que provider du module `Users`.
 25. Implémenter la logique de la route `create` du controller `User` afin de créer un nouvel utilisateur dans la base de données.
@@ -90,7 +90,7 @@ model Users {
 <summary><h2>Documentation de l'API : Swagger</h2></summary>
 
 33. Installer `Swagger` en tant que dépendance du projet.
-34. Configurer `Swagger` pour être utilisé par Nest.
+34. Initialiser `Swagger` pour être utilisé par Nest.
 35. Utiliser le décorateur `Swagger` approprié pour documenter les routes du controller `Users` séparément.
 36. Documenter les champs du DTO de création d'utilisateur en utilisant le décorateur `Swagger` approprié.
 37. Tester la documentation Swagger en se rendant à l'URL `http://localhost:3000/api` ([s'y rendre](http://localhost:3000/api))
