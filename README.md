@@ -123,8 +123,7 @@ model Users {
 
 46. Modifier le schéma `Prisma` pour permettre l'authentification des utilisateurs.
 47. Migrer le nouveau schéma `Prisma` pour mettre à jour la structure de la base de données.
-48. Installer les paquets `@nestjs/passport`, `passport`, `@nestjs/passport-jwt`, `@nestjs/jwt` ainsi que le paquet `@types/passport-jwt` (en tant que dépendance de développement).
-49. Installer les paquets `bcrypt`.
+48. Installer les paquets `bcrypt`, `@nestjs/passport`, `passport`, `@nestjs/passport-jwt`, `@nestjs/jwt` ainsi que les paquets `@types/passport-jwt`, `@types/bcrypt` (en tant que devDep).
 
 </details>
 
