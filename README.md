@@ -4,7 +4,7 @@
 
 ![](./img/you-are-not-prepared.png)
 
-Votre mission si vous l'acceptez est de créer une API simple avec Nest qui permettra à des utilisateurs de votre site web d'enregitrer les articles qu'ils souhaitent vendre. Cela implique que les utilisateurs doivent pouvoir ajouter des articles, ainsi que retirer leurs articles de votre site. Ils doivent aussi pouvoir consulter les articles mis en ligne par d'autres utilisateurs.
+Votre mission si vous l'acceptez est de créer une API simple de petites annonces avec Nest qui permettra à des utilisateurs de votre site web d'enregitrer les articles qu'ils souhaitent vendre. Cela implique que les utilisateurs doivent pouvoir ajouter des articles, ainsi que retirer leurs articles de votre site. Ils doivent aussi pouvoir consulter les articles mis en ligne par d'autres utilisateurs.
  
 <details open><summary><h2>Prise en main</h2></summary>
 
