@@ -33,7 +33,7 @@ Votre mission si vous l'acceptez est de créer une API simple de petites annonce
 - [ ] 19. Installer `prisma` en tant que dépendance de développement du projet Nest.
 - [ ] 20. Installer le client prisma (paquet `@prisma/client`) en tant que dépendance du projet.
 - [ ] 21. Initialiser `prisma` dans le projet Nest.
-- [ ] 22. Impo rter ce schéma dans le projet Nest.
+- [ ] 22. Importer ce schéma dans le projet Nest.
 <details>  
 <summary>Schéma</summary>
 
