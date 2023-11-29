@@ -15,7 +15,7 @@ Votre mission si vous l'acceptez est de créer une API simple de petites annonce
 3. [ ] Créer une nouvelle route nommée "sayGoodbye" dans ce controller.
 4. [ ] Créer une méthode nommée "logicToSayGoodbye" dans ce service. Cette méthode doit renvoyer "Goodbye".
 5. [ ] Retourner le résultat de "logicToSayGoodbye" par la route "sayGoodbye".
-6. [ ] Tester votre route avec Postman.
+6. [ ] Tester votre route avec [httpie](https://httpie.io/cli) ou "Postman".
    1. [ ] L'URL par défaut de l'API est la suivante : `http://localhost:3000/` ([s'y rendre](http://localhost:3000/))
 7. [ ] Créer un nouveau controller appellé "Product".
 8. [ ] Créer un nouveau service pour ce nouveau controller nommé "Product".
