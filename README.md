@@ -23,7 +23,7 @@ Votre mission si vous l'acceptez est de créer une API simple de petites annonce
 - [ ] 14. Créer un nouveau module nommé `Product`.
 - [ ] 15. Déplacer le controller, le service et le module `Product` dans un nouveau dossier nommé `Product`.
 - [ ] 16. Lier le controller `Product` et le service `Product` dans le module `Product`.
-- [ ] 17. Import6er le module `Product` dans le module `App`.
+- [ ] 17. Importer le module `Product` dans le module `App`.
 - [ ] 18. Tester la route du controller `Product` avec Postman.
 </details>
 <details open><summary><h2>Persistance de données</h2></summary>
