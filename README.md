@@ -33,7 +33,7 @@ Votre mission si vous l'acceptez est de créer une API simple de petites annonce
 - [ ] 19. Installer `prisma` en tant que dépendance de développement du projet Nest.
 - [ ] 20. Installer le client prisma (paquet `@prisma/client`) en tant que dépendance du projet.
 - [ ] 21. Initialiser `prisma` dans le projet Nest.
-- [ ] 22. Importer ce schéma dans le projet Nest.
+- [ ] 22. Impo rter ce schéma dans le projet Nest.
 <details>  
 <summary>Schéma</summary>
 
@@ -140,12 +140,12 @@ model Users {
     - [ ] 62. Créer une méthode dans le service `Users` pour récupérer un utilisateur par le nom d'utilisateur.
     - [ ] 63. Utiliser le `Jwt Service` et le `Users Service` dans le module `Auth`.
     - [ ] 64. Créer la logique pour authentifier un utilisateur.
-       - [ ] 65. Renvoyez uniquement un objet contenant un champ : `access_token` contenant le JWT signé avec les informations suivantes :
+       - Renvoyez uniquement un objet contenant un champ : `access_token` contenant le JWT signé avec les informations suivantes :
           - Le nom d'utilisateur de l'utilisateur.
           - L'UUID de l'utilisateur.
-- [ ] 66. Implémenter la stratégie `Jwt` pour le module Auth.
-- [ ] 67. Créer un `Guard` d'authentification.
-- [ ] 68. Rendre l'authentication globale à l'API (faire que chaque route de l'API nécessite une authentification).
-- [ ] 69. Permettre à certaines routes de ne pas nécessiter d'authentification grâce à un décorateur personnalisé.
+- [ ] 65. Implémenter la stratégie `Jwt` pour le module Auth.
+- [ ] 66. Créer un `Guard` d'authentification.
+- [ ] 67. Rendre l'authentication globale à l'API (faire que chaque route de l'API nécessite une authentification).
+- [ ] 68. Permettre à certaines routes de ne pas nécessiter d'authentification grâce à un décorateur personnalisé.
 
 </details>
