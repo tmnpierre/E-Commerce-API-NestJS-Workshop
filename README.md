@@ -17,23 +17,23 @@ Votre mission si vous l'acceptez est de créer une API simple de petites annonce
 - [x] 5. Retourner le résultat de "logicToSayGoodbye" par la route "sayGoodbye".
 - [x] 6. Tester votre route avec [httpie](https://httpie.io/cli) ou "Postman".
    - L'URL par défaut de l'API est la suivante : `http://localhost:3000/` ([s'y rendre](http://localhost:3000/))
-- [ ] 7. Créer un nouveau controller appellé "Product".
-- [ ] 8. Créer un nouveau service pour ce nouveau controller nommé "Product".
-- [ ] 9. Créer une nouvelle route dans le controller `Product` qui utilise le service `Product` et renvoie un tableau de nom d'article.
-- [ ] 10. Créer un nouveau module nommé `Product`.
-- [ ] 11. Déplacer le controller, le service et le module `Product` dans un nouveau dossier nommé `Product`.
-- [ ] 12. Lier le controller `Product` et le service `Product` dans le module `Product`.
-- [ ] 13. Importer le module `Product` dans le module `App`.
-- [ ] 14. Tester la route du controller `Product` avec Postman.
+- [x] 7. Créer un nouveau controller appellé "Product".
+- [x] 8. Créer un nouveau service pour ce nouveau controller nommé "Product".
+- [x] 9. Créer une nouvelle route dans le controller `Product` qui utilise le service `Product` et renvoie un tableau de nom d'article.
+- [x] 10. Créer un nouveau module nommé `Product`.
+- [x] 11. Déplacer le controller, le service et le module `Product` dans un nouveau dossier nommé `Product`.
+- [x] 12. Lier le controller `Product` et le service `Product` dans le module `Product`.
+- [x] 13. Importer le module `Product` dans le module `App`.
+- [x] 14. Tester la route du controller `Product` avec Postman.
 </details>
 <details open><summary><h2>Persistance de données</h2></summary>
 
 ### ORM : Prisma
 
-- [ ] 15. Installer `prisma` en tant que dépendance de développement du projet Nest.
-- [ ] 16. Installer le client prisma (paquet `@prisma/client`) en tant que dépendance du projet.
-- [ ] 17. Initialiser `prisma` dans le projet Nest.
-- [ ] 18. Importer ce schéma dans le projet Nest.
+- [x] 15. Installer `prisma` en tant que dépendance de développement du projet Nest.
+- [x] 16. Installer le client prisma (paquet `@prisma/client`) en tant que dépendance du projet.
+- [x] 17. Initialiser `prisma` dans le projet Nest.
+- [x] 18. Importer ce schéma dans le projet Nest.
 <details>  
 <summary>Schéma</summary>
 
