@@ -66,17 +66,17 @@ model Users {
 
 </details>
 
-- [ ] 19. Migrer le schéma vers la base de données.
-- [ ] 20. Créer le service `Prisma`.
-- [ ] 21. Vérifier que la structure de la base de données correspond à la définition du schéma Prisma.
+- [x] 19. Migrer le schéma vers la base de données.
+- [x] 20. Créer le service `Prisma`.
+- [x] 21. Vérifier que la structure de la base de données correspond à la définition du schéma Prisma.
 
 </details>
 <details open><summary><h2>Création des utilisateurs</h2></summary>
 
-- [ ] 22. Créer une nouvelle ressource (~=module) nommée `Users` avec "Nest CLI" (Note: Une ressource est un ensemble de : controller, service, module. On appelle aussi cela un module) (Puis laisser les options par défaut). 
-- [ ] 23. Ajouter les propriétés : `Pseudo` et `Mail` dans le DTO `create-user`.
-- [ ] 24. Définir le service Prisma en tant que provider du module `Users`.
-- [ ] 25. Implémenter la logique de la route `create` du controller `User` afin de créer un nouvel utilisateur dans la base de données.
+- [x] 22. Créer une nouvelle ressource (~=module) nommée `Users` avec "Nest CLI" (Note: Une ressource est un ensemble de : controller, service, module. On appelle aussi cela un module) (Puis laisser les options par défaut). 
+- [x] 23. Ajouter les propriétés : `Pseudo` et `Mail` dans le DTO `create-user`.
+- [x] 24. Définir le service Prisma en tant que provider du module `Users`.
+- [x] 25. Implémenter la logique de la route `create` du controller `User` afin de créer un nouvel utilisateur dans la base de données.
 - [ ] 26. Créer une route pour récupérer les informations d'un utilisateur par son UUID.
 - [ ] 27. Créer une route pour modifier les informations d'un utilisateur.
 - [ ] 28. Créer une route pour supprimer un utilisateur par son UUID.
